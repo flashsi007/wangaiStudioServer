@@ -1,0 +1,974 @@
+let AiAnswer = `
+好的，以下是针对**“第一阶段：市场调研（1-2天）”**的详细操作指南。该阶段是网文创作的基础环节，直接影响后续内容的定位、风格和成功概率。
+ ---
+ 
+ ## 一、第一阶段：市场调研（1-2天）
+ ### 1. 分析当前热门榜单：看什么类型最火
+ #### 目的：
+ 了解目前市场上哪些小说类型最受欢迎，帮助你判断哪个赛道有潜力，避免盲目写作。
+ #### 操作建议：
+ - **平台选择**：在主流网文平台（如起点中文网、晋江文学城、番茄小说、飞卢小说等）查看“新书榜”、“热榜”、“飙升榜”、“分类榜”。
+ - **类型识别**：
+   - **男频**：玄幻、修真、都市、科幻、历史、竞技、系统流
+   - **女频**：言情、穿越、重生、宫斗、甜宠、种田、豪门、校园
+ - **数据参考**：
+   - 阅读量、收藏数、更新频率、读者评论、评分等
+   - 注意“完本率”高的作品，避免被“烂尾”误导
+ #### 关联节点：
+ - **第二阶段：核心创意**
+   - 热门类型为“核心卖点”的设定提供方向。
+ - **第五阶段：剧情大纲**
+   - 根据热门类型设计“前期—中期—后期”的结构。
+ #### 补充建议：
+ - 如果没有明确目标读者，建议从“高热度+低门槛”的类型入手。
+ - 可以结合“目标读者”的年龄和喜好来判断哪种类型更适配。
+ 
+ ---
+ ### 2. 研究爆款套路：总结成功模式
+ #### 目的：
+ 学习已有成功作品的结构、节奏、人物设定、金手指设计等，提炼出可复制的成功元素。
+ #### 操作建议：
+ - **选书标准**：挑选3-5部近期爆红的小说，尤其是那些“开篇即爽”、“节奏紧凑”的作品。
+ - **分析维度**：
+   - 开头是否吸引人（如废柴逆袭、系统觉醒）
+   - 人物塑造是否立体（主角、女主、反派）
+   - 爽点分布是否密集（打脸、装逼、升级）
+   - 情节是否有转折（伏笔、反转、高潮）
+ - **笔记整理**：可以用表格或思维导图记录每本书的核心结构、关键情节、人物关系等。
+ #### 关联节点：
+ - **第三阶段：世界观构建**
+   - 爆款套路中常包含清晰的世界观设定，这有助于你构建一个“有逻辑、有吸引力”的世界。
+ - **第四阶段：人物关系网**
+   - 成功作品中的人物关系往往复杂但合理，可作为你构建“主角团队”和“对手阵营”的参考。
+ #### 补充建议：
+ - 若时间有限，可优先研究“完本率高”的作品。
+ - 注意区分“套路”和“创新”，避免完全照搬。
+ ---
+ ### 3. 找差异化角度：避免完全同质化
+ #### 目的：
+ 在热门类型中找到“独特卖点”，让你的作品在众多同类中脱颖而出。
+ #### 操作建议：
+ - **对比分析**：列出你感兴趣的几个热门类型，找出它们的共同点和差异点。
+ - **寻找空白点**：
+   - 是否有某个细分人群未被满足？（如“女频轻小说”中的“职场+恋爱”）
+   - 是否有某个设定尚未被充分开发？（如“现代+修真”、“穿越+科幻”）
+ - **加入新元素**：
+   - 可以尝试融合不同题材（如“都市+玄幻”）
+   - 或者加入“新设定”（如“AI觉醒”、“平行世界”）
+ #### 关联节点：
+ - **第二阶段：核心创意**
+   - 差异化角度是“核心卖点”的重要来源。
+ - **第五阶段：剧情大纲**
+   - 差异化的设定可以成为故事的“钩子”，提升吸引力。
+ #### 补充建议：
+ - 可以参考“思维导图”中的“金手指设计”部分，思考如何让“金手指”更具独特性。
+ - 如果找不到明显差异点，可以考虑“情感共鸣”或“社会议题”作为突破口。
+ ---
+ ### 4. 确定目标读者：年龄、喜好、付费能力
+ #### 目的：
+ 明确你的作品面向谁，从而调整语言风格、情节节奏、人物设定等。
+ #### 操作建议：
+ - **年龄段划分**：
+   - 少年向（12-18岁）：情节轻松、语言活泼、注重成长线
+   - 青年向（18-30岁）：情节复杂、人物丰富、注重情感和价值观
+   - 成人向（30岁以上）：情节深度、社会观察、现实感强
+ - **偏好分析**：
+   - 喜欢“装逼打脸”还是“细腻情感”？
+   - 更喜欢“快节奏爽文”还是“慢热型长篇”？
+ - **付费能力评估**：
+   - 付费用户多集中在“青年向”和“女性向”
+   - 付费意愿与内容质量、更新频率密切相关
+ #### 关联节点：
+ - **第四阶段：人物关系网**
+   - 不同年龄段的读者对角色的接受度不同，比如“萝莉女主”更适合少女向，“御姐女主”更适合成熟读者。
+ - **第五阶段：剧情大纲**
+   - 根据目标读者调整“爽点密度”和“情感表达方式”。
+ #### 补充建议：
+ - 如果不确定目标读者，可以先做小范围调研（如朋友圈、贴吧、豆瓣小组）。
+ - 可以结合“思维导图”中的“女主群”设定，根据不同读者群体选择合适的女主类型。
+ ---
+ ## 二、总结：如何利用思维导图进行高效市场调研？
+ | 节点 | 内容 | 作用 |
+ |------|------|------|
+ | 第一阶段：市场调研 | 分析热门榜单、研究爆款套路、找差异化角度、确定目标读者 | 为后续创作提供方向和基础 |
+ | 第二阶段：核心创意 | 确定核心卖点、设计金手指 | 结合市场调研结果，打造独特作品 |
+ | 第三阶段：世界观构建 | 力量体系、地理环境、社会结构、经济体系 | 基于市场类型构建完整世界 |
+ | 第四阶段：人物关系网 | 主角团队、对手阵营、中立势力 | 依据目标读者和爆款套路设计人物 |
+ | 第五阶段：剧情大纲 | 前期、中期、后期结构 | 基于市场热点设计节奏和爽点 |
+ ---
+ ## 三、下一步建议
+ 如果你已经完成了第一阶段的市场调研，可以进入**第二阶段：核心创意**，进一步细化你的作品方向。
+ 如果需要，我也可以帮助你：
+ - 制作“核心卖点”思维导图  
+ - 设计“金手指”方案  
+ - 构建“人物关系网”模板  
+ 是否需要我继续帮你推进到下一阶段？
+`
+
+ 返回的示例数据  treeData {
+    "data": {
+        "text": "<p><strong style=\"color: rgb(255, 255, 255); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px; font-weight: bold; font-style: normal; text-decoration: none;\">写网文的步骤</strong></p>",
+        "expand": true,
+        "isActive": false,
+        "uid": "4d8c66dd-cace-4225-8ec0-b65c11f5f76b",
+        "richText": true
+    },
+    "children": [
+        {
+            "data": {
+                "text": "<p>&nbsp;一、第一阶段：市场调研（1-2天）</p>",
+                "uid": "cbc0bb09-ce12-4f1d-8492-33038ad22a26",
+                "expand": true,
+                "richText": true,
+                "isActive": false
+            },
+            "children": [
+                {
+                    "data": {
+                        "text": "<p>1. 分析当前热门榜单：看什么类型最火</p>",
+                        "uid": "73fc1e8c-d84b-488d-bc0b-647a6137278d",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "<p>目的：了解目前市场上哪些小说类型最受欢迎，帮助你判断哪个赛道有潜力，避免盲目写作。</p>",
+                                "uid": "08a5d1a9-0562-4cd3-88d7-0db1e989d6f8",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false
+                            },
+                            "children": []
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">操作建议：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "20c3fa58-a74e-4810-9600-182e610019a5"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">平台选择：在主流网文平台（如起点中文网、晋江文学城、番茄小说、飞卢小说等）查看“新书榜”、“热榜”、“飙升榜”、“分类榜”。</span></p>",
+                                        "uid": "a5e8e9ad-d8f7-4224-a385-20b72fc3fde7",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;类型识别：</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "f208b7fb-f810-4e22-8e0d-84c8960f5b0d"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">男频：玄幻、修真、都市、科幻、历史、竞技、系统流</span></p>",
+                                                "uid": "bc417e8d-9680-4d28-8454-e94c5dfc64e7",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">女频：言情、穿越、重生、宫斗、甜宠、种田、豪门、校园</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "f4bf579a-ca13-4740-a82d-e05a554e4909"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">数据参考：</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "ab0404aa-6386-4067-afa8-babd2c7ab18d"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">阅读量、收藏数、更新频率、读者评论、评分等</span></p>",
+                                                "uid": "3b6a0399-b4b4-431e-86bb-28ac81744687",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">&nbsp;注意“完本率”高的作品，避免被“烂尾”误导</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "9265f763-134d-44ee-94ad-06151f6301b7"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">关联节点：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "3a1afb80-48ff-4b28-ae90-bc2a22558a78"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">第二阶段：核心创意</span></p>",
+                                        "uid": "b274c2a9-4111-4c1a-991f-07199961ad84",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">热门类型为“核心卖点”的设定提供方向。</span></p>",
+                                                "uid": "6ff04f6e-05cc-4e63-b563-fa1c89b5c5f6",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">第五阶段：剧情大纲</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "a02e19d3-2e0d-44e0-b222-5e2039f4ebf5"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">根据热门类型设计“前期—中期—后期”的结构。</span></p>",
+                                                "uid": "60b4124f-bf31-4d42-8fa1-3ac906b2287b",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">补充建议：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "7d9b95ca-a053-4a45-be60-1f71dda7def5"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">如果没有明确目标读者，建议从“高热度+低门槛”的类型入手。</span></p>",
+                                        "uid": "ab9da18f-0a73-49e5-b7d7-1c03ecf4e037",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">可以结合“目标读者”的年龄和喜好来判断哪种类型更适配。</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "ff43bd1d-5f5d-4849-bfb7-ad98d18d0495"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">2. 研究爆款套路：总结成功模式</span></p>",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false,
+                        "uid": "a10e6145-1dc0-4775-93e4-1dcadc137d2d"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">目的：&nbsp;学习已有成功作品的结构、节奏、人物设定、金手指设计等，提炼出可复制的成功元素。</span></p>",
+                                "uid": "49d9331c-13d5-4ed1-9591-070f0bf22c12",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false
+                            },
+                            "children": []
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">操作建议：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "a840ced1-e290-451b-b525-0763472669e0"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">选书标准：挑选3-5部近期爆红的小说，尤其是那些“开篇即爽”、“节奏紧凑”的作品。</span></p>",
+                                        "uid": "b321a3f4-5916-4446-b963-0ed2c8986148",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;分析维度：</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "b5fea2b9-a6e4-4537-9718-681cbac28dae"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">开头是否吸引人（如废柴逆袭、系统觉醒）</span></p>",
+                                                "uid": "94551407-3074-4958-acf3-cf8c513a42cd",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">人物塑造是否立体（主角、女主、反派）</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "c3fbddc8-d35d-4b6e-80d3-eb0792db8325"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">爽点分布是否密集（打脸、装逼、升级）</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "19e171f7-7531-4e72-91b1-d5dc23831742"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">情节是否有转折（伏笔、反转、高潮）</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "1a869613-6307-4ffe-9fd2-b6899cdc0095"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">笔记整理：可以用表格或思维导图记录每本书的核心结构、关键情节、人物关系等。</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "af22fea4-3dda-4482-9934-f6a66620ab07"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">关联节点：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "8e48c4ef-55a6-4d48-b3bd-483f59369e90"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;第三阶段：世界观构建</span></p>",
+                                        "uid": "7cf9e5f7-71dc-433c-8d41-5c67e7a4ee53",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">爆款套路中常包含清晰的世界观设定，这有助于你构建一个“有逻辑、有吸引力”的世界。</span></p>",
+                                                "uid": "a63cc054-7ab3-400c-859b-e9a558980c7f",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">第四阶段：人物关系网</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "eacfe8ff-d979-4c8f-9e44-083e507247e1"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">补充建议：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "e73167f4-d82c-4f1d-873e-dd708043c486"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">若时间有限，可优先研究“完本率高”的作品。</span></p>",
+                                        "uid": "b75d8e9e-3471-4219-b031-5948c0633f91",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">注意区分“套路”和“创新”，避免完全照搬。</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "4320fd68-22c0-496e-bc02-5c7a9bd83d24"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">3. 找差异化角度：避免完全同质化</span></p>",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false,
+                        "uid": "9c0ce761-2c91-4e77-8802-2a86489d6dce"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">目的：&nbsp;在热门类型中找到“独特卖点”，让你的作品在众多同类中脱颖而出。</span></p>",
+                                "uid": "c56232bf-328e-4142-ac54-893d6a9ab510",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false
+                            },
+                            "children": []
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">操作建议：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "1bf04566-30c9-4fb3-8493-e8e1f8c2e3d9"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">对比分析：列出你感兴趣的几个热门类型，找出它们的共同点和差异点。</span></p>",
+                                        "uid": "4c24bd16-d2e6-422d-b9f7-425755e32f0a",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">寻找空白点</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "91eac934-1fd1-48e9-a02c-cf4228f41d9d"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">是否有某个细分人群未被满足？（如“女频轻小说”中的“职场+恋爱”）</span></p>",
+                                                "uid": "5c59a756-acb1-474a-9f2a-50b66b0bdbbd",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">是否有某个设定尚未被充分开发？（如“现代+修真”、“穿越+科幻”）</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "db1360a0-52c9-41dd-8f61-9b21aa618784"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">加入新元素</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "759e6406-1980-45ae-a861-d001f69d4a44"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">可以尝试融合不同题材（如“都市+玄幻”）</span></p>",
+                                                "uid": "8967415d-6888-460a-94cc-e17d34f9a636",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">或者加入“新设定”（如“AI觉醒”、“平行世界”）</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "b6bb42c2-490e-4ea1-96bb-0d9b5c8e68dd"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">可以尝试融合不同题材（如“都市+玄幻”）</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "c8b7870c-22a6-45da-bdf4-75b49b904007"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">或者加入“新设定”（如“AI觉醒”、“平行世界”）</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "1783efc4-3bdd-4600-87f6-7c75e6c336a4"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">关联节点：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "3938cc66-f197-43c8-8f2f-494984bb7c02"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">第二阶段：核心创意</span></p>",
+                                        "uid": "18a5c743-e0c3-438f-9eb2-a5e88977c42f",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">差异化角度是“核心卖点”的重要来源。</span></p>",
+                                                "uid": "bbd7e369-d7b1-4335-8a70-07f56a4b24d1",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">第五阶段：剧情大纲</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "9e0b37de-3036-44cf-92fd-d11cd5a391a1"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">差异化的设定可以成为故事的“钩子”，提升吸引力。</span></p>",
+                                                "uid": "80e67a35-5d58-4c30-9ec3-2f18957257e9",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">补充建议：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "87108971-2dfc-46c8-9a43-b31dd42fac6e"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">可以参考“思维导图”中的“金手指设计”部分，思考如何让“金手指”更具独特性。</span></p>",
+                                        "uid": "84150e3d-0786-4114-bbe5-7afc95c9d5c2",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">如果找不到明显差异点，可以考虑“情感共鸣”或“社会议题”作为突破口。</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "3d483e14-e11b-4ce1-8319-ee035e2d275f"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">4. 确定目标读者：年龄、喜好、付费能力</span></p>",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false,
+                        "uid": "4ab8e5ac-e2ec-4df3-9c8d-97d8dac61839"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">目的：&nbsp;明确你的作品面向谁，从而调整语言风格、情节节奏、人物设定等。</span></p>",
+                                "uid": "ea5a3fd0-b2da-41fb-9900-152fa1393129",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false
+                            },
+                            "children": []
+                        },
+                        {
+                            "data": {
+                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">&nbsp;操作建议：</span></p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "183990ca-5ce4-4bdd-b66b-88432791fb41"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">年龄段划分</span></p>",
+                                        "uid": "78b4db5f-0ecc-45ad-b566-24251b4902df",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">少年向（12-18岁）：情节轻松、语言活泼、注重成长线</span></p>",
+                                                "uid": "c7820eb1-86f2-4b02-a802-a91913e768a6",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">青年向（18-30岁）：情节复杂、人物丰富、注重情感和价值观</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "66324371-7e5e-47f2-959b-c1c725b7591b"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">成人向（30岁以上）：情节深度、社会观察、现实感强</span></p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "80480991-42e9-4f0e-9995-df1c7933c3f7"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">偏好分析：</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "f4923861-b23b-4234-9ff9-62ac61ee57fd"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p>喜欢“装逼打脸”还是“细腻情感”？</p>",
+                                                "uid": "cd73fedb-0188-411c-a6bc-e989d52edb1e",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p>更喜欢“快节奏爽文”还是“慢热型长篇”？</p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "6450dcd4-0ef2-41e0-bd49-9a0c7ebe84c9"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p>付费能力评估：</p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "d457667c-4114-4f70-b339-936c0c22f2f1"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p>付费用户多集中在“青年向”和“女性向”</p>",
+                                                "uid": "310b32e4-f8f2-4af3-ad06-8fd47b7df018",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "<p>付费意愿与内容质量、更新频率密切相关</p>",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false,
+                                                "uid": "1c377a03-96de-47c1-90dd-0488d5e491f0"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p>关联节点：</p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "f73710c7-8005-46cc-8387-845478be74e3"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p>第四阶段：人物关系网</p>",
+                                        "uid": "0cdb1ad6-0f54-4f98-9e71-270db6cc389a",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "<p>不同年龄段的读者对角色的接受度不同，比如“萝莉女主”更适合少女向，“御姐女主”更适合成熟读者。</p>",
+                                                "uid": "efb2383f-6aec-4baa-90ba-1a581c67b654",
+                                                "expand": true,
+                                                "richText": true,
+                                                "isActive": false
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "<p>补充建议：</p>",
+                                "expand": true,
+                                "richText": true,
+                                "isActive": false,
+                                "uid": "8226354e-eec9-4131-b033-3655cbbfbeaa"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"color: rgb(106, 109, 108); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;\">&nbsp;如果不确定目标读者，可以先做小范围调研（如朋友圈、贴吧、豆瓣小组）。</span></p>",
+                                        "uid": "f06c8b4e-8b8f-4e72-a293-3bf31a8facf8",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "data": {
+                                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">可以结合“思维导图”中的“女主群”设定，根据不同读者群体选择合适的女主类型。</span></p>",
+                                        "expand": true,
+                                        "richText": true,
+                                        "isActive": false,
+                                        "uid": "91a7bcfa-b57f-484e-8aec-ba1ea8c1634f"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data": {
+                "text": "<p><span style=\"color: rgb(86, 86, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px;\">二、总结：如何利用思维导图进行高效市场调研？</span></p>",
+                "expand": true,
+                "richText": true,
+                "isActive": false,
+                "uid": "24bd668e-24d3-4766-9720-be0e32700c43"
+            },
+            "children": [
+                {
+                    "data": {
+                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">&nbsp;节点 | 内容 | 作用 |&nbsp;|------|------|------|&nbsp;| 第一阶段：市场调研 | 分析热门榜单、研究爆款套路、找差异化角度、确定目标读者 | 为后续创作提供方向和基础 |&nbsp;| 第二阶段：核心创意 | 确定核心卖点、设计金手指 | 结合市场调研结果，打造独特作品 |&nbsp;| 第三阶段：世界观构建 | 力量体系、地理环境、社会结构、经济体系 | 基于市场类型构建完整世界 |&nbsp;| 第四阶段：人物关系网 | 主角团队、对手阵营、中立势力 | 依据目标读者和爆款套路设计人物 |&nbsp;| 第五阶段：剧情大纲 | 前期、中期、后期结构 | 基于市场热点设计节奏和爽点 |</span></p>",
+                        "uid": "af838fdc-a626-4e1c-b9fd-a7094c18d85f",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "data": {
+                "text": "<p><span style=\"color: rgb(86, 86, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px;\">&nbsp;三、下一步建议&nbsp;如果你已经完成了第一阶段的市场调研，可以进入**第二阶段：核心创意**，进一步细化你的作品方向。&nbsp;如果需要，我也可以帮助你：</span></p>",
+                "expand": true,
+                "richText": true,
+                "isActive": false,
+                "uid": "bebda572-15f5-4324-9337-08ef5f3e7762"
+            },
+            "children": [
+                {
+                    "data": {
+                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">制作“核心卖点”思维导图&nbsp;&nbsp;</span></p>",
+                        "uid": "8b754ab4-0be4-4faf-a24a-bdf919836e5c",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">设计“金手指”方案&nbsp;&nbsp;</span></p>",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false,
+                        "uid": "b3bc2543-5308-4588-af96-b67ebb5b0123"
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(106, 109, 108);\">构建“人物关系网”模板&nbsp;&nbsp;</span></p>",
+                        "expand": true,
+                        "richText": true,
+                        "isActive": false,
+                        "uid": "8003a614-ddad-44f2-8ad9-a0a2656b32c7"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "data": {
+                "text": "<p><span style=\"font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(86, 86, 86);\">&nbsp;是否需要我继续帮你推进到下一阶段？</span></p>",
+                "expand": true,
+                "richText": true,
+                "isActive": false,
+                "uid": "4e5c2781-d714-40fc-8321-8b39fc3b766e"
+            },
+            "children": []
+        }
+    ]
+}
+
+使用js写一个函数  generateTree(AiAnswer) 将Markdown 转换为 treeData
+

@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  admin-wangai-studio:
+    build: .
+    container_name: admin-wangai-studio
+    image: admin-wangai-studio:latest
+    ports:
+      - "3002:80"        # 宿主 3002 -> 容器 80
+    restart: unless-stopped

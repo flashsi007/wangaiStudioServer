@@ -1,0 +1,154 @@
+// Arco Design 主题配置文件
+// 将现有的 CSS 变量主题映射到 Arco Design 的 Less 变量系统
+
+// ===== 基础色彩系统 =====
+// 中性灰色调 - 对应 shadcn/ui neutral 主题
+@arcoblue-1: #fafafa;
+@arcoblue-2: #f5f5f5;
+@arcoblue-3: #e5e5e5;
+@arcoblue-4: #d4d4d4;
+@arcoblue-5: #a3a3a3;
+@arcoblue-6: #737373; // 主色调
+@arcoblue-7: #525252;
+@arcoblue-8: #404040;
+@arcoblue-9: #262626;
+@arcoblue-10: #171717;
+
+// ===== 主题色 =====
+@primary-1: #fafafa;
+@primary-2: #f5f5f5;
+@primary-3: #e5e5e5;
+@primary-4: #d4d4d4;
+@primary-5: #a3a3a3;
+@primary-6: #737373;
+@primary-7: #525252;
+@primary-8: #404040;
+@primary-9: #262626;
+@primary-10: #171717;
+
+// ===== 语义化颜色 =====
+// 危险色 - 红色系
+@red-1: #fef2f2;
+@red-2: #fecaca;
+@red-3: #fca5a5;
+@red-4: #f87171;
+@red-5: #ef4444;
+@red-6: #dc2626; // 主要危险色
+@red-7: #b91c1c;
+@red-8: #991b1b;
+@red-9: #7f1d1d;
+@red-10: #450a0a;
+
+// 成功色 - 绿色系
+@green-1: #f0fdf4;
+@green-2: #dcfce7;
+@green-3: #bbf7d0;
+@green-4: #86efac;
+@green-5: #4ade80;
+@green-6: #22c55e; // 主要成功色
+@green-7: #16a34a;
+@green-8: #15803d;
+@green-9: #166534;
+@green-10: #14532d;
+
+// 警告色 - 橙色系
+@orange-1: #fff7ed;
+@orange-2: #ffedd5;
+@orange-3: #fed7aa;
+@orange-4: #fdba74;
+@orange-5: #fb923c;
+@orange-6: #f97316; // 主要警告色
+@orange-7: #ea580c;
+@orange-8: #c2410c;
+@orange-9: #9a3412;
+@orange-10: #7c2d12;
+
+// 信息色 - 蓝色系
+@blue-1: #eff6ff;
+@blue-2: #dbeafe;
+@blue-3: #bfdbfe;
+@blue-4: #93c5fd;
+@blue-5: #60a5fa;
+@blue-6: #3b82f6; // 主要信息色
+@blue-7: #2563eb;
+@blue-8: #1d4ed8;
+@blue-9: #1e40af;
+@blue-10: #1e3a8a;
+
+// ===== 组件特定变量 =====
+// 背景色
+@color-bg-1: #ffffff; // 主背景
+@color-bg-2: #fafafa; // 次要背景
+@color-bg-3: #f5f5f5; // 三级背景
+@color-bg-4: #e5e5e5; // 四级背景
+@color-bg-5: #d4d4d4; // 五级背景
+
+// 文本色
+@color-text-1: #171717; // 主要文本
+@color-text-2: #404040; // 次要文本
+@color-text-3: #737373; // 三级文本
+@color-text-4: #a3a3a3; // 四级文本
+
+// 边框色
+@color-border-1: #f5f5f5; // 浅边框
+@color-border-2: #e5e5e5; // 常规边框
+@color-border-3: #d4d4d4; // 深边框
+@color-border-4: #a3a3a3; // 重点边框
+
+// ===== 暗色主题变量 =====
+// 使用 [arco-theme='dark'] 选择器来定义暗色主题
+[arco-theme='dark'] {
+  // 基础色彩系统 - 暗色版本
+  --arcoblue-1: #171717;
+  --arcoblue-2: #262626;
+  --arcoblue-3: #404040;
+  --arcoblue-4: #525252;
+  --arcoblue-5: #737373;
+  --arcoblue-6: #a3a3a3; // 主色调
+  --arcoblue-7: #d4d4d4;
+  --arcoblue-8: #e5e5e5;
+  --arcoblue-9: #f5f5f5;
+  --arcoblue-10: #fafafa;
+  
+  // 主题色 - 暗色版本
+  --primary-1: #171717;
+  --primary-2: #262626;
+  --primary-3: #404040;
+  --primary-4: #525252;
+  --primary-5: #737373;
+  --primary-6: #a3a3a3;
+  --primary-7: #d4d4d4;
+  --primary-8: #e5e5e5;
+  --primary-9: #f5f5f5;
+  --primary-10: #fafafa;
+  
+  // 背景色
+  --color-bg-1: #171717; // 主背景
+  --color-bg-2: #262626; // 次要背景
+  --color-bg-3: #404040; // 三级背景
+  --color-bg-4: #525252; // 四级背景
+  --color-bg-5: #737373; // 五级背景
+  
+  // 文本色
+  --color-text-1: #fafafa; // 主要文本
+  --color-text-2: #e5e5e5; // 次要文本
+  --color-text-3: #d4d4d4; // 三级文本
+  --color-text-4: #a3a3a3; // 四级文本
+  
+  // 边框色
+  --color-border-1: #404040; // 浅边框
+  --color-border-2: #525252; // 常规边框
+  --color-border-3: #737373; // 深边框
+  --color-border-4: #a3a3a3; // 重点边框
+}
+
+// ===== 圆角和间距 =====
+@border-radius-small: 4px;
+@border-radius-medium: 6px;
+@border-radius-large: 8px;
+
+// ===== 阴影 =====
+@shadow-1-up: 0 -1px 2px 0 rgba(0, 0, 0, 0.03), 0 -1px 6px -1px rgba(0, 0, 0, 0.02), 0 -2px 4px 0 rgba(0, 0, 0, 0.02);
+@shadow-1-down: 0 1px 2px 0 rgba(0, 0, 0, 0.03), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02);
+@shadow-2-up: 0 -3px 6px -2px rgba(0, 0, 0, 0.05), 0 -6px 16px -6px rgba(0, 0, 0, 0.03);
+@shadow-2-down: 0 3px 6px -2px rgba(0, 0, 0, 0.05), 0 6px 16px -6px rgba(0, 0, 0, 0.03);

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-cd /home/admin-wangai-studio
+cd /home/wangai-studio-server
 
 PS3="请选择操作: "
 options=("更新容器（保留镜像，重新构建并重启）" \
@@ -17,7 +17,7 @@ select opt in "${options[@]}"; do
         2)
             echo ">>> 删除容器+镜像，重新构建 ..."
             sudo docker compose down
-            sudo docker rmi admin-wangai-studio || true
+            sudo docker rmi wangai-studio || true
             sudo docker compose up --build -d
             break
             ;;

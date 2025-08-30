@@ -5,6 +5,7 @@ services:
     build: .
     container_name: admin-wangai-studio
     image: admin-wangai-studio:latest
-    ports:
-      - "3002:80"        # 宿主 3002 -> 容器 80
-    restart: unless-stopped
+    restart: "no"               # 构建完即退出
+    volumes:
+      # 把容器里的 /dist 挂到宿主机 Nginx 的站点目录
+      - /var/www/vue-app:/dist:ro
